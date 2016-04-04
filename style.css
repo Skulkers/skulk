@@ -1,9 +1,20 @@
-h1 {
-   color: #ebe726;
-    font-size: 36px;
-	line-height: 48px;
-    text-align: left;
-    font-family: 'Lato', sans-serif;
-	font-weight: 400;
-	text-transform: uppercase;	
+body {
+	background-image: url("texture-990071.jpg");
+		background-size: 100%;
+}
+#topname {
+	max-width: 100%;
+	height: auto;
+	width: auto\9;
+}
+div {
+	display: inline-block;
+}
+
+#topspace {
+	height: 15%;
+}
+
+a {
+	margin: 2%;
 }
