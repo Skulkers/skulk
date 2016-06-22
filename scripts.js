@@ -13,9 +13,8 @@ $(document).ready(function () {
                $(this).effect('bounce', 1000)
        });
     $('#biohighlight').hover(function() {
-      $(this).toggle("highlight");
-    },function() {
-      $(this).toggle("highlight");
-})
+            $(this).effect('shake', 200)
+       
+});
 });
 
